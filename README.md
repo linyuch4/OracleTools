@@ -1,5 +1,6 @@
 
 # 使用方法
+下载对应平台的程序
 ```
 #linux 或macos
 ./OracleTools --token="" --chatid=""
